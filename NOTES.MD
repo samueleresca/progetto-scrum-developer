@@ -2,7 +2,9 @@
 
 # Pair programming
 
+```
 Il pair programming nel ciclo di feedback permette di ottenere feedback sul proprio operato nel termine dei 5 minuti.
+```
 
 Allo standup meeting si formano le coppie di pair programming
 
@@ -34,8 +36,53 @@ Tecnica di feedback rapido tra 2 dev
 
 # Unit test
 
-Permette di ottenere codice robusto in modo sostenibile.
-Lo unit test è la base del mio ciclo di feedback (mi da feedback nel giro di un minuto).
-Se non riesco a scrivere il test in un minuto, probabilmente ho scritto codice non testabile.
+```
+Metodo per verificare unita isolate di codice
+```
 
-Unit test è fatto dai programmatori per i programmatori
+- Permette di ottenere codice robusto in modo sostenibile.
+- Lo unit test è la base del mio ciclo di feedback (mi da feedback nel giro di un minuto).
+- Se non riesco a scrivere il test in un minuto, probabilmente ho scritto codice non       testabile.
+- Unit test è fatto dai programmatori per i programmatori
+- Marcate i test funzionali che contengono i behavior che interessano al product owner
+
+
+# Code refactoring  
+
+```
+Migliorare il codice senza cambiarne il comportamento.
+```
+Il 70% del costo del software è manutenzione.
+
+E' un invenzione di SCRUM, allo standup si pianifica una review del codice.
+
+ Refactoring, improving the design of existing code - Martin Folwer
+
+- KISS : Keep it simple stupid
+- YAGNI: You aren't gonna need it;
+
+# SCRUM
+
+```
+E' un metodo organizzativo per la produzione software.
+```
+
+Essendo un lavoro intelletuale è difficile fare una stima.
+
+- Sprint: la dimensione dello sprint varia da una settimana a due settimane. Con lo sprint contengo il tempo di sviluppo
+- 
+
+
+
+# Referenze
+
+Mitico mese uomo -> Definisce l'ingegneria del software
+
+Il software non è il prodotto ma il progetto
+
+https://scrumguides.org
+
+Garmish 
+
+
+
