@@ -61,6 +61,8 @@ E' un invenzione di SCRUM, allo standup si pianifica una review del codice.
 - KISS : Keep it simple stupid
 - YAGNI: You aren't gonna need it;
 
+[https://github.com/emilybache/Tennis-Refactoring-Kata](https://github.com/emilybache/Tennis-Refactoring-Kata)
+
 # SCRUM
 
 ```
@@ -70,8 +72,21 @@ E' un metodo organizzativo per la produzione software.
 Essendo un lavoro intelletuale è difficile fare una stima.
 
 - Sprint: la dimensione dello sprint varia da una settimana a due settimane. Con lo sprint contengo il tempo di sviluppo
-- 
 
+(Vedi scheda in allegato)
+
+# TDD ( Test driven development)
+
+```
+E' una pratica di scrittura codice
+```
+
+Deriva dal test first. Prima di scrivere qualsiasi parte di programma scrivi prima il test.
+
+Il test deve fallire esattamente come dico io.
+
+- Scrivo il test
+- Scrivo il codice più piccolo che risolva quel test
 
 
 # Referenze
@@ -80,9 +95,9 @@ Mitico mese uomo -> Definisce l'ingegneria del software
 
 Il software non è il prodotto ma il progetto
 
-https://scrumguides.org
+[https://scrumguides.org](https://scrumguides.org)
 
-Garmish 
+Garmish Conference
 
 
 
