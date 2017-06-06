@@ -9,6 +9,7 @@ test("It's a function", () => {
     expect(typeof pwdCheck).toBe("function");
 });
 
+
 test("It takes a parameter", ()=>{
     expect(pwdCheck()).toBe(false);
 });
