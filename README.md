@@ -88,6 +88,17 @@ Il test deve fallire esattamente come dico io.
 - Scrivo il test
 - Scrivo il codice più piccolo che risolva quel test
 
+# User stories
+
+- Who? (Chi è l'utente? Che tipo di persona e'?)
+- What? (Cosa vuole fare?)
+- Why? (Perchè lo vuole fare?)
+
+Regola delle 3C:
+- Carta
+- Conversation
+- Confirmation
+
 
 # Referenze
 

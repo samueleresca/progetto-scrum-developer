@@ -1,5 +1,3 @@
-
-
 var passwordCheck = (password) => {
     if (password === undefined) {
         return false;
@@ -13,7 +11,16 @@ var passwordCheck = (password) => {
         return false;
     }
 
+    if (!password.match(/[a-z]/i)) {
+        return false;
+    }
+
+    if (!password.match(/\d/)) {
+        return false;
+    }
+
     return true;
 };
+
 
 module.exports = passwordCheck;
