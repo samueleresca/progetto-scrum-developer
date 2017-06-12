@@ -1,5 +1,3 @@
-
-
 # Pair programming
 
 ```
@@ -77,6 +75,7 @@ Essendo un lavoro intelletuale è difficile fare una stima.
 
 # TDD ( Test driven development)
 
+
 ```
 E' una pratica di scrittura codice
 ```
@@ -98,6 +97,63 @@ Regola delle 3C:
 - Carta
 - Conversation
 - Confirmation
+
+INVEST:
+
+- Indipendente;
+- Negoziabile;
+- Valueable
+- Stimabile;
+- Small;
+- Testable;
+
+(Vedi scheda allegata)
+
+# SOLID 
+
+
+- Single Responsibility Principle: Every class should have responsibility over a single part of the functionality provided by the software. and that responsibility should be entirely encapsulated by the class
+
+- Open-closed principle: Software entities, should be open for extension, but closed for modification. That is, such an entity can allow its behavior to be extended without modifying its source code
+
+- Liskov substitution priciple: All the derived classes must honour all the contracts (public interfaces) defined by the base class
+
+....
+
+# Continuos Integration
+
+Tecnica di XP. 
+GitLab ha la CI per proetti personali.
+
+```
+Tecnica di extreme programming che permette di controllare tutto il processo da la scrittura del codice fino al deploy
+
+- Continuos building
+- Continuos testing
+- Continuos deploying
+```
+
+Cosa da valore al mio cliente?
+
+# Value stream mapping
+
+```
+Il modo in cui i giapponesi ottimmizzano la loro catena produttiva
+```
+
+I giapponesi prendono un processo di produione e lo mettono nero su bianco, e poi cercano i punti di ottimizzazione.
+
+
+- Il PO ha un idea
+- Crea una request
+- BA fa analisi
+- Crea US
+- Il team di sviluppo sviluppa
+
+
+In questo processo dove sono gli sprechi?
+La continuos integration si occupa di effettuare questa sequenza più velocemente
+
 
 
 # Referenze
